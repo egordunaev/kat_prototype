@@ -1,0 +1,13 @@
+weapon/handfire HDFRFR
+weapon/male/fist KTFST
+weapon/male/swoosh KTSWOOS
+$playersound player	male *usefail KTGRNT
+$playersound player	male *grunt KTGRNT
+$playersounddup	player male *land *grunt
+$playersound player	male *jump KTJUMP
+ambient/CAVAMB CAVAMB
+$ambient 1 ambient/CAVAMB world continuous 1.0
+doors/dr1_open CHNMEC
+doors/dr1_clos CHNMEC
+doors/dr2_open CHNMEC
+doors/dr2_clos CHNMEC

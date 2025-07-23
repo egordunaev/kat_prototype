@@ -1,0 +1,8 @@
+OptionMenu "PowerupItems"
+{
+    Title "Choose powerup"
+	Command "send", "send_message"
+	Command "send", "send_message"
+	Command "send", "send_message"
+	//ValueText "say:", "message"
+}

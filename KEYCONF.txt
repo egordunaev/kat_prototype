@@ -1,0 +1,3 @@
+addkeysection "Ingame keyboard" InGameKeyboard
+	addmenukey "open powerups" "openmenu PowerupItems"
+	//defaultbind "u" "openmenu PowerupItems"

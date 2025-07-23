@@ -1,0 +1,13 @@
+gameinfo 
+{
+	playerclasses = "Kat"
+	AddEventHandlers = "NashMoveHandler"
+	//pixelratio = 2.0
+	defaultconversationmenuclass = "SampleConversationMenu"
+}
+
+DoomEdNums
+{
+	10002=Table0
+}
+

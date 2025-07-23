@@ -1,0 +1,3 @@
+server noarchive int g_activecolor = 0xDDAA00;
+server noarchive int g_inactivecolor = 0x444444;
+server noarchive int g_altcolor = 0x00AA00;
